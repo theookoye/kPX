@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:width="164dp" android:height="51dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="10dp" />
+            <gradient android:type="linear" android:useLevel="true" android:startColor="#ffe614e6" android:endColor="#ff730a0a" android:angle="0" />
+
+            <!-- TextView shadow offsets do not respect scale. -->
+
+        </shape>
+    </item>
+</layer-list>
